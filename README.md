@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+This is Isaac. I am currently learning golang, expected to build a personal website.
+
+The project description, follows as below:
+1. GUI-of-Organic-Rankine-Cycle-experiment
+
 <!--
 **t104306033/t104306033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
